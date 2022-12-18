@@ -27,13 +27,7 @@
             <a href="/ProyectoFinal">
             <img class="Logo" src="/ProyectoFinal/images/LogoBlanco.png" alt="Op"></a>
             <h1>Jurídico Contable</h1>
-            <%
-                boolean isLogin;
-                if(session.isNew()){
-                session.setAttribute("isLogin", false);
-                }
-                isLogin=(boolean)session.getAttribute("isLogin");   
-            %>
+            
         </header>  
        
        <%@include file="/views/partials/nav.jsp" %>

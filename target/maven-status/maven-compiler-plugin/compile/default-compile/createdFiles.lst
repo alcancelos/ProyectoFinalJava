@@ -1,0 +1,9 @@
+database\UsuarioDAO.class
+Models\Usuario.class
+database\NovedadDao.class
+controller\UsuarioController.class
+config\Conexion.class
+Models\Novedad.class
+alejandro\proyectofinal\app.class
+.netbeans_automatic_build
+controller\NovedadController.class
