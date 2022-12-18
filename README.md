@@ -2,6 +2,9 @@
 
 Se trata de un tablón de novedades donde solo los usuarios registrados pueden acceder al CRUD de novedades.
 
+Desarrollado con
+## Netbeans 14 - JDK 1.8 - Apache Tomcat 8 y MYSQL
+
 ## Pantalla de inicio usuario no logueado.
 
 ![image](https://user-images.githubusercontent.com/37666538/208296186-eb04e835-1131-4ed8-858d-0c79048b17a0.png)
