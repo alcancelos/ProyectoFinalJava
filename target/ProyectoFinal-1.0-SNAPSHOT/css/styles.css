@@ -994,6 +994,7 @@ nav a:hover{
   border: none;
   cursor: pointer;
   display: block;
+
   
 }
 
@@ -1005,7 +1006,7 @@ nav a:hover{
 
 /* Links adentro del dropdown */
 .dropdown-content a {
-  padding: 4px 8px;
+  padding: 4px 15px;
   text-decoration: none; 
   display: block;
 }
