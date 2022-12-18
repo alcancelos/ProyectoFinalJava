@@ -1,6 +1,7 @@
-# Proyecto Final Java
+# Proyecto Final FullStack Java
 
 Se trata de un tablón de novedades donde solo los usuarios registrados pueden acceder al CRUD de novedades.
+Diseño responsive con un dropdown menu hecho artesanalmente. (sin bootstrap)
 
 Desarrollado con:
 ### Netbeans 14 - JDK 1.8 - Apache Tomcat 8 y MYSQL
