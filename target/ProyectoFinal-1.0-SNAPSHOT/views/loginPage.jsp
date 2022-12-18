@@ -13,10 +13,10 @@
     <div class="nota">
         <p>Utilizar las siguientes credenciales:</p>
         <div>Usuario: admin</div>
-        <div>Contraseña: admin</div>
+        <div>Contraseña: 1234</div>
         <p> o....</p>
         <div>Usuario: user</div>
-        <div>Contraseña: user</div>
+        <div>Contraseña: 1234</div>
         <p>(O poner cualquier cosa para ver pagina de error)</p>
     </div>
     <div class="CajaLogin">
