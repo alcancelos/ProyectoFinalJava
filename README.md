@@ -3,9 +3,9 @@
 Se trata de un tablón de novedades donde solo los usuarios registrados pueden acceder al CRUD de novedades.
 
 Desarrollado con:
-## Netbeans 14 - JDK 1.8 - Apache Tomcat 8 y MYSQL
+### Netbeans 14 - JDK 1.8 - Apache Tomcat 8 y MYSQL
 
-Nombre de la base de datos: **tpfinal**
+### Nombre de la base de datos: **tpfinal**
 
 ## Pantalla de inicio usuario no logueado.
 
