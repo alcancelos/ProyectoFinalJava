@@ -2,6 +2,11 @@
 
 Se trata de un tablón de novedades donde solo los usuarios registrados pueden acceder al CRUD de novedades.
 
+Desarrollado con:
+### Netbeans 14 - JDK 1.8 - Apache Tomcat 8 y MYSQL
+
+### Nombre de la base de datos: **tpfinal**
+
 ## Pantalla de inicio usuario no logueado.
 
 ![image](https://user-images.githubusercontent.com/37666538/208296186-eb04e835-1131-4ed8-858d-0c79048b17a0.png)
@@ -29,6 +34,10 @@ pass: 1234
 ## ver novedades (Usuarios no logueados)
 
 ![image](https://user-images.githubusercontent.com/37666538/208296059-59899e0c-3cde-4c12-8bc6-04be5d4a7ef1.png)
+
+# Diseño responsive. Con un Dropdownmenu artesanal.
+
+![image](https://user-images.githubusercontent.com/37666538/208299158-62a4b402-9f44-44b8-a2a1-cfdef4d77057.png)
 
 El script sql para generar la base de datos con los datos de prueba se encuentra en el directorio raíz del repositorio.
 
